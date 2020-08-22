@@ -1,3 +1,3 @@
 # machine_learning_projects
-#### Jupyter notebooks on machine learning with python
+#### My Jupyter notebooks on machine learning with python
 
